@@ -20,7 +20,15 @@
 
 ## Gallery
 
-TBD
+### Rosé Pine
+![ulauncher-rose-pine](https://github.com/user-attachments/assets/a7b5b48d-2063-42b0-8306-2cfa556a71e9)
+
+### Rosé Pine Moon
+![ulauncher-rose-pine-moon](https://github.com/user-attachments/assets/c912bc8d-1081-49da-9597-e3c05ea83cf5)
+
+### Rosé Pine Dawn
+![ulauncher-rose-pine-dawn](https://github.com/user-attachments/assets/5e8f285a-a775-4794-8527-5f626c74e938)
+
 
 ## Thanks to
 
