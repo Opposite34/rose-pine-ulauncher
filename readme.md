@@ -36,4 +36,11 @@
 
 ## Contributing
 - Ensure node (npx) is installed
-- Modify `templates/manifest.json` and `templates/theme.css` using Rosé Pine variables, then build them using `build.sh` running from the base git directory
+- Modify `templates/manifest.json` and `templates/theme.css` using Rosé Pine variables, then build variants:
+
+```sh
+npx @rose-pine/build -t templates/ -o dist/ &&
+mv ./dist/main ./dist/rose-pine &&
+mv ./dist/dawn ./dist/rose-pine-dawn &&
+mv ./dist/moon ./dist/rose-pine-moon
+```
